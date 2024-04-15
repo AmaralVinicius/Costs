@@ -1,0 +1,19 @@
+.submitBtnContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.submitBtn {
+  width: 50%;
+  background: #222;
+  color: #FFF;
+  padding: .7em 1.2em;
+  text-decoration: none;
+  cursor: pointer;
+  border: none;
+  transition: all .2s ease;
+}
+
+.submitBtn:hover {
+  color: #FFBB33;
+}

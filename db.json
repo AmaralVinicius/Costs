@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "id": "6176",
+      "name": "Site Fullstack",
+      "budget": "10000",
+      "category": {
+        "id": "1",
+        "name": "Desenvolvimento"
+      },
+      "cost": 6500,
+      "services": [
+        {
+          "name": "Contratar dev PHP",
+          "description": "Contratar dev para desenvolver o backend em PHP.",
+          "cost": "4500",
+          "id": "69eb1b4c-cf5d-4104-ab4d-eea22425b062"
+        },
+        {
+          "name": "Contratar servidor",
+          "cost": "2000",
+          "description": "Contratar servidor para hospedar site.",
+          "id": "06e88720-1a4b-4676-a903-f6aeecbd41f8"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "0",
+      "name": "Infra"
+    },
+    {
+      "id": "1",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "2",
+      "name": "Design"
+    },
+    {
+      "id": "3",
+      "name": "Planejamento"
+    }
+  ]
+}
